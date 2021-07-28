@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_feed.xml",
+        "source": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\src\\main\\res\\layout\\fragment_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_country.xml",
+        "source": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\src\\main\\res\\layout\\fragment_country.xml"
+    }
+]

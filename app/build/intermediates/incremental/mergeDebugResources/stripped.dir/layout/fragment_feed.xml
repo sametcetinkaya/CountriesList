@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                              
+                                                   
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FeedFragment" android:tag="layout/fragment_feed_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="To Country Fragment"
+            android:layout_gravity="center"
+            android:id="@+id/button">
+
+        </Button>
+
+
+
+</FrameLayout>
+         

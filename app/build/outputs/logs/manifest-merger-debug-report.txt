@@ -1,0 +1,316 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:databinding-adapters:4.1.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e59f1a944bbe30f3c2edd3cb1581690c\databinding-adapters-4.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.1.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\efabde9f31c8a6ebdaf6029daa88b735\databinding-runtime-4.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\a12f704bca30c28b857dde2b8ddccfe4\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\7ca263a981e65b8285e7422ab78123a6\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\650c3c1208273a056c1e429a4a78cb3a\navigation-ui-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1a764d798985b2b9916c098ecec2efcc\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\0760f71b9ffe7b029bff077629a0beaf\navigation-common-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\8e96e1ef4d3325df47e77239e806a489\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\81a5badbb338c40891eac698d7ab342f\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\943754356b275da7b613f1b1e05beabd\jetified-room-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\0866c934fdbc729d81aa3137c049fc11\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1f24778cfaa929ac7d75a632ec926f0d\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\f7e40381301405c39273db3ac3c394a7\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\54d8992cbf7338c45fd6c1933a31f4bf\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\22a5feb46b2d0d3f35c614240124d111\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\98b64ca07ae270b17b0dc932f58967d4\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\6deaa455a98dcfcea3ba2c6fe7ed991f\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9449a30f7f43677ba3cfa888c63f279d\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\44b00d7a0cb27be98996b3d1e59f9ed9\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3fdaecc23cc057ed863a4d6f75cfae17\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\875d7f8132f1107e6c74a6e950350600\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\16628d1b014b0df9b5f28249309e951a\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\ae3553703bc62dc711ff100ceded8793\palette-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9ff5065d28aaab24b60699234986e7e2\jetified-viewbinding-4.1.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\7978a8fcbfee6aea8121827c52245b25\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\15d58eca1bb605276a093ef0c9c81a89\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3c68f680ba5924957f5df33231b0c31b\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\023abc1c4e2704fe499958513c916d17\navigation-runtime-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\b37c310844204d58c3161d5b68491cf9\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\18792dbcd9e307d3c816a8c1346a849c\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\8f62172fe853f9f58ef3efe7385f2b2d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\48c981bdd8bf2eb64b77d0b0109aa5e0\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\00c2c1a37ded30c3c1e4aa3b51d32eba\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\5120213992314e99de179bb39a6d3eba\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\a6d3749bf15b34608b9c600648a76f24\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\21403f818a44f839bf2186746a400407\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\288af726519973160b2f200d971c6d8a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\c31e1a42f84e9d168e8a6fdd464cc982\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\51048ccf14ce9bcf8526092fca1412c5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\335e4f03eb68cb008ac03f3eb95eab82\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1f4db6ec957b8ed26d6dcdc91418e5fc\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9eba771f4b74857bd86554bb73177698\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\6b99af53a90f66d122bd114c3805c98a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\d224f671cb69d4b7441ae4693f44930c\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e5c36ed0fe3228a14ae90ca7f2590929\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\44d943d549b975ab5af0a3f96f9f9b58\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\46f8c1b96a944b92aec32f04cefac592\navigation-common-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\104775be4d73928937f92ac4f1782ba1\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\eac3bb225f09535cf418a8d0b0fb105d\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\60532228d8cba4ae180673d61b940251\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e818c86615f97bfe6bc447bb371b5be4\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\f124bc9653333c879a8f1ab598d53101\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9b7a0b633bf601de51b8c0000a4243f3\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e998c5fae342480621eae93294417112\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\239f0d376ed70b87c34ca070842581f7\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\02368e73aaca68b6e63327ef6e1071aa\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\8e26cc235bb4ea2f0310f9d8371faf7f\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\6a7bee305da583388c2ada12794f235b\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\842cbac90cb6a544e8a4f0aa0d49c361\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\4b731416a0c6223895b8eb5e6d00e69f\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\d419e7b349b84e8509e2fa213a9b2b18\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\733d963bdbffb822b8029429df771aa3\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\5dc83575f72bcdf7bd227289577c86a3\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\44c9007db7f619d6db0842c21d4e32d0\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9cd8a483efa5f87da61cd6e59af17390\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\d1624fd008a7b2c3e4f7af0dc26e8a9b\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e441a6ea34af61c84b8ed712af4f7bbb\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\bad335c5c98d84b9301c75452979a9b9\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e26f424624e598f337f8362c8dcd54af\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\22a5feb46b2d0d3f35c614240124d111\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\22a5feb46b2d0d3f35c614240124d111\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\98b64ca07ae270b17b0dc932f58967d4\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\98b64ca07ae270b17b0dc932f58967d4\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\44b00d7a0cb27be98996b3d1e59f9ed9\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\44b00d7a0cb27be98996b3d1e59f9ed9\lifecycle-extensions-2.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\16628d1b014b0df9b5f28249309e951a\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\16628d1b014b0df9b5f28249309e951a\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\104775be4d73928937f92ac4f1782ba1\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\104775be4d73928937f92ac4f1782ba1\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e818c86615f97bfe6bc447bb371b5be4\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e818c86615f97bfe6bc447bb371b5be4\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\842cbac90cb6a544e8a4f0aa0d49c361\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\842cbac90cb6a544e8a4f0aa0d49c361\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\104775be4d73928937f92ac4f1782ba1\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:11:9-53
+activity#com.sametcetinkaya.countrieskotlin.MainActivity
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.1.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e59f1a944bbe30f3c2edd3cb1581690c\databinding-adapters-4.1.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.1.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e59f1a944bbe30f3c2edd3cb1581690c\databinding-adapters-4.1.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\efabde9f31c8a6ebdaf6029daa88b735\databinding-runtime-4.1.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\efabde9f31c8a6ebdaf6029daa88b735\databinding-runtime-4.1.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\a12f704bca30c28b857dde2b8ddccfe4\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\a12f704bca30c28b857dde2b8ddccfe4\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\7ca263a981e65b8285e7422ab78123a6\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\7ca263a981e65b8285e7422ab78123a6\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\650c3c1208273a056c1e429a4a78cb3a\navigation-ui-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\650c3c1208273a056c1e429a4a78cb3a\navigation-ui-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1a764d798985b2b9916c098ecec2efcc\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1a764d798985b2b9916c098ecec2efcc\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\0760f71b9ffe7b029bff077629a0beaf\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\0760f71b9ffe7b029bff077629a0beaf\navigation-common-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\8e96e1ef4d3325df47e77239e806a489\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\8e96e1ef4d3325df47e77239e806a489\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\81a5badbb338c40891eac698d7ab342f\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\81a5badbb338c40891eac698d7ab342f\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\943754356b275da7b613f1b1e05beabd\jetified-room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\943754356b275da7b613f1b1e05beabd\jetified-room-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\0866c934fdbc729d81aa3137c049fc11\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\0866c934fdbc729d81aa3137c049fc11\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1f24778cfaa929ac7d75a632ec926f0d\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1f24778cfaa929ac7d75a632ec926f0d\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\f7e40381301405c39273db3ac3c394a7\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\f7e40381301405c39273db3ac3c394a7\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\54d8992cbf7338c45fd6c1933a31f4bf\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\54d8992cbf7338c45fd6c1933a31f4bf\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\22a5feb46b2d0d3f35c614240124d111\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\22a5feb46b2d0d3f35c614240124d111\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\98b64ca07ae270b17b0dc932f58967d4\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\98b64ca07ae270b17b0dc932f58967d4\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\6deaa455a98dcfcea3ba2c6fe7ed991f\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\6deaa455a98dcfcea3ba2c6fe7ed991f\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9449a30f7f43677ba3cfa888c63f279d\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9449a30f7f43677ba3cfa888c63f279d\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\44b00d7a0cb27be98996b3d1e59f9ed9\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\44b00d7a0cb27be98996b3d1e59f9ed9\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3fdaecc23cc057ed863a4d6f75cfae17\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3fdaecc23cc057ed863a4d6f75cfae17\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\875d7f8132f1107e6c74a6e950350600\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\875d7f8132f1107e6c74a6e950350600\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\16628d1b014b0df9b5f28249309e951a\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\16628d1b014b0df9b5f28249309e951a\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\ae3553703bc62dc711ff100ceded8793\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\ae3553703bc62dc711ff100ceded8793\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9ff5065d28aaab24b60699234986e7e2\jetified-viewbinding-4.1.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9ff5065d28aaab24b60699234986e7e2\jetified-viewbinding-4.1.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\7978a8fcbfee6aea8121827c52245b25\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\7978a8fcbfee6aea8121827c52245b25\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\15d58eca1bb605276a093ef0c9c81a89\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\15d58eca1bb605276a093ef0c9c81a89\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3c68f680ba5924957f5df33231b0c31b\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3c68f680ba5924957f5df33231b0c31b\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\023abc1c4e2704fe499958513c916d17\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\023abc1c4e2704fe499958513c916d17\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\b37c310844204d58c3161d5b68491cf9\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\b37c310844204d58c3161d5b68491cf9\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\18792dbcd9e307d3c816a8c1346a849c\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\18792dbcd9e307d3c816a8c1346a849c\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\8f62172fe853f9f58ef3efe7385f2b2d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\8f62172fe853f9f58ef3efe7385f2b2d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\48c981bdd8bf2eb64b77d0b0109aa5e0\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\48c981bdd8bf2eb64b77d0b0109aa5e0\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\00c2c1a37ded30c3c1e4aa3b51d32eba\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\00c2c1a37ded30c3c1e4aa3b51d32eba\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\5120213992314e99de179bb39a6d3eba\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\5120213992314e99de179bb39a6d3eba\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\a6d3749bf15b34608b9c600648a76f24\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\a6d3749bf15b34608b9c600648a76f24\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\21403f818a44f839bf2186746a400407\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\21403f818a44f839bf2186746a400407\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\288af726519973160b2f200d971c6d8a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\288af726519973160b2f200d971c6d8a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\c31e1a42f84e9d168e8a6fdd464cc982\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\c31e1a42f84e9d168e8a6fdd464cc982\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\51048ccf14ce9bcf8526092fca1412c5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\51048ccf14ce9bcf8526092fca1412c5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\335e4f03eb68cb008ac03f3eb95eab82\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\335e4f03eb68cb008ac03f3eb95eab82\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1f4db6ec957b8ed26d6dcdc91418e5fc\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1f4db6ec957b8ed26d6dcdc91418e5fc\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9eba771f4b74857bd86554bb73177698\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9eba771f4b74857bd86554bb73177698\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\6b99af53a90f66d122bd114c3805c98a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\6b99af53a90f66d122bd114c3805c98a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\d224f671cb69d4b7441ae4693f44930c\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\d224f671cb69d4b7441ae4693f44930c\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e5c36ed0fe3228a14ae90ca7f2590929\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e5c36ed0fe3228a14ae90ca7f2590929\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\44d943d549b975ab5af0a3f96f9f9b58\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\44d943d549b975ab5af0a3f96f9f9b58\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\46f8c1b96a944b92aec32f04cefac592\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\46f8c1b96a944b92aec32f04cefac592\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\104775be4d73928937f92ac4f1782ba1\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\104775be4d73928937f92ac4f1782ba1\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\eac3bb225f09535cf418a8d0b0fb105d\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\eac3bb225f09535cf418a8d0b0fb105d\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\60532228d8cba4ae180673d61b940251\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\60532228d8cba4ae180673d61b940251\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e818c86615f97bfe6bc447bb371b5be4\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e818c86615f97bfe6bc447bb371b5be4\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\f124bc9653333c879a8f1ab598d53101\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\f124bc9653333c879a8f1ab598d53101\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9b7a0b633bf601de51b8c0000a4243f3\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9b7a0b633bf601de51b8c0000a4243f3\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e998c5fae342480621eae93294417112\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e998c5fae342480621eae93294417112\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\239f0d376ed70b87c34ca070842581f7\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\239f0d376ed70b87c34ca070842581f7\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\02368e73aaca68b6e63327ef6e1071aa\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\02368e73aaca68b6e63327ef6e1071aa\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\8e26cc235bb4ea2f0310f9d8371faf7f\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\8e26cc235bb4ea2f0310f9d8371faf7f\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\6a7bee305da583388c2ada12794f235b\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\6a7bee305da583388c2ada12794f235b\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\842cbac90cb6a544e8a4f0aa0d49c361\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\842cbac90cb6a544e8a4f0aa0d49c361\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\4b731416a0c6223895b8eb5e6d00e69f\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\4b731416a0c6223895b8eb5e6d00e69f\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\d419e7b349b84e8509e2fa213a9b2b18\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\d419e7b349b84e8509e2fa213a9b2b18\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\733d963bdbffb822b8029429df771aa3\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\733d963bdbffb822b8029429df771aa3\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\5dc83575f72bcdf7bd227289577c86a3\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\5dc83575f72bcdf7bd227289577c86a3\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\44c9007db7f619d6db0842c21d4e32d0\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\44c9007db7f619d6db0842c21d4e32d0\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9cd8a483efa5f87da61cd6e59af17390\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\9cd8a483efa5f87da61cd6e59af17390\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\d1624fd008a7b2c3e4f7af0dc26e8a9b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\d1624fd008a7b2c3e4f7af0dc26e8a9b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e441a6ea34af61c84b8ed712af4f7bbb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e441a6ea34af61c84b8ed712af4f7bbb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\bad335c5c98d84b9301c75452979a9b9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\bad335c5c98d84b9301c75452979a9b9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e26f424624e598f337f8362c8dcd54af\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\e26f424624e598f337f8362c8dcd54af\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
