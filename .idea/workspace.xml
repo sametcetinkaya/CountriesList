@@ -15,7 +15,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="451a5668-2200-420a-8912-32eb93d01771" name="Default Changelist" comment="" />
+    <list default="true" id="451a5668-2200-420a-8912-32eb93d01771" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/sametcetinkaya/countrieskotlin/adapter/CountryAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/sametcetinkaya/countrieskotlin/model/Model.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +35,8 @@
       <list>
         <option value="navigationResourceFile" />
         <option value="layoutResourceFile" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -148,6 +153,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2671" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1627575954136">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2671" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1627575954136" />
     <state x="2598" y="287" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1625670022200">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
