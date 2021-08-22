@@ -4,23 +4,39 @@ package com.sametcetinkaya.countrieskotlin.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
+import android.widget.ProgressBar;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.databinding.DataBindingUtil;
 import androidx.databinding.ViewDataBinding;
+import androidx.recyclerview.widget.RecyclerView;
+import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 import com.sametcetinkaya.countrieskotlin.R;
 import java.lang.Deprecated;
 import java.lang.Object;
 
 public abstract class FragmentFeedBinding extends ViewDataBinding {
   @NonNull
-  public final Button button;
+  public final TextView countryError;
+
+  @NonNull
+  public final RecyclerView countryList;
+
+  @NonNull
+  public final ProgressBar countryLoading;
+
+  @NonNull
+  public final SwipeRefreshLayout swipeRefreshLayout;
 
   protected FragmentFeedBinding(Object _bindingComponent, View _root, int _localFieldCount,
-      Button button) {
+      TextView countryError, RecyclerView countryList, ProgressBar countryLoading,
+      SwipeRefreshLayout swipeRefreshLayout) {
     super(_bindingComponent, _root, _localFieldCount);
-    this.button = button;
+    this.countryError = countryError;
+    this.countryList = countryList;
+    this.countryLoading = countryLoading;
+    this.swipeRefreshLayout = swipeRefreshLayout;
   }
 
   @NonNull

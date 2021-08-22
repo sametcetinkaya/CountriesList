@@ -14,25 +14,27 @@ public class FragmentFeedBindingImpl extends FragmentFeedBinding  {
     static {
         sIncludes = null;
         sViewsWithIds = new android.util.SparseIntArray();
-        sViewsWithIds.put(R.id.button, 1);
+        sViewsWithIds.put(R.id.countryList, 1);
+        sViewsWithIds.put(R.id.countryError, 2);
+        sViewsWithIds.put(R.id.countryLoading, 3);
     }
     // views
-    @NonNull
-    private final android.widget.FrameLayout mboundView0;
     // variables
     // values
     // listeners
     // Inverse Binding Event Handlers
 
     public FragmentFeedBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
-        this(bindingComponent, root, mapBindings(bindingComponent, root, 2, sIncludes, sViewsWithIds));
+        this(bindingComponent, root, mapBindings(bindingComponent, root, 4, sIncludes, sViewsWithIds));
     }
     private FragmentFeedBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
-            , (android.widget.Button) bindings[1]
+            , (android.widget.TextView) bindings[2]
+            , (androidx.recyclerview.widget.RecyclerView) bindings[1]
+            , (android.widget.ProgressBar) bindings[3]
+            , (androidx.swiperefreshlayout.widget.SwipeRefreshLayout) bindings[0]
             );
-        this.mboundView0 = (android.widget.FrameLayout) bindings[0];
-        this.mboundView0.setTag(null);
+        this.swipeRefreshLayout.setTag(null);
         setRootTag(root);
         // listeners
         invalidateAll();

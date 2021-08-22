@@ -1,1 +1,1 @@
-[{"navFile":"src\\main\\res\\navigation\\country_navigation.xml","javaFiles":["com.sametcetinkaya.countrieskotlin.FeedFragmentDirections","com.sametcetinkaya.countrieskotlin.CountryFragmentDirections","com.sametcetinkaya.countrieskotlin.CountryFragmentArgs"]}]
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.sametcetinkaya.countrieskotlin.view.FeedFragmentDirections","com.sametcetinkaya.countrieskotlin.view.CountryFragmentDirections","com.sametcetinkaya.countrieskotlin.view.CountryFragmentArgs"]}]

@@ -13,23 +13,35 @@ public class FragmentCountryBindingImpl extends FragmentCountryBinding  {
     private static final android.util.SparseIntArray sViewsWithIds;
     static {
         sIncludes = null;
-        sViewsWithIds = null;
+        sViewsWithIds = new android.util.SparseIntArray();
+        sViewsWithIds.put(R.id.countryImage, 1);
+        sViewsWithIds.put(R.id.countryName, 2);
+        sViewsWithIds.put(R.id.countryCapital, 3);
+        sViewsWithIds.put(R.id.countryRegion, 4);
+        sViewsWithIds.put(R.id.countryCurrency, 5);
+        sViewsWithIds.put(R.id.countryLanguage, 6);
     }
     // views
     @NonNull
-    private final android.widget.FrameLayout mboundView0;
+    private final android.widget.RelativeLayout mboundView0;
     // variables
     // values
     // listeners
     // Inverse Binding Event Handlers
 
     public FragmentCountryBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
-        this(bindingComponent, root, mapBindings(bindingComponent, root, 1, sIncludes, sViewsWithIds));
+        this(bindingComponent, root, mapBindings(bindingComponent, root, 7, sIncludes, sViewsWithIds));
     }
     private FragmentCountryBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
+            , (android.widget.TextView) bindings[3]
+            , (android.widget.TextView) bindings[5]
+            , (android.widget.ImageView) bindings[1]
+            , (android.widget.TextView) bindings[6]
+            , (android.widget.TextView) bindings[2]
+            , (android.widget.TextView) bindings[4]
             );
-        this.mboundView0 = (android.widget.FrameLayout) bindings[0];
+        this.mboundView0 = (android.widget.RelativeLayout) bindings[0];
         this.mboundView0.setTag(null);
         setRootTag(root);
         // listeners

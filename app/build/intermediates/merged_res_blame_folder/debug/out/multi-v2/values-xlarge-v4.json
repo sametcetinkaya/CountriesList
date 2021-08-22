@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\samet\\.gradle\\caches\\transforms-2\\files-2.1\\9449a30f7f43677ba3cfa888c63f279d\\appcompat-1.3.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "C:\\Users\\samet\\.gradle\\caches\\transforms-2\\files-2.1\\0bb37f2ca0ee81e070dfd0f89c015764\\appcompat-1.3.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

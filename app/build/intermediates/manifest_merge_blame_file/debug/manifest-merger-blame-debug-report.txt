@@ -15,7 +15,7 @@
 12        android:allowBackup="true"
 12-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.6.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\104775be4d73928937f92ac4f1782ba1\core-1.6.0\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.6.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3b817278db31de4a7b44fd8cf9aec882\core-1.6.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:icon="@mipmap/ic_launcher"
@@ -26,42 +26,43 @@
 18-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:9:9-54
 19        android:supportsRtl="true"
 19-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:10:9-35
-20        android:theme="@style/Theme.CountriesKotlin" >
-20-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:11:9-53
-21        <activity android:name="com.sametcetinkaya.countrieskotlin.MainActivity" >
-21-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:12:19-47
-22            <intent-filter>
-22-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:14:17-69
-23-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:16:17-77
-25-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
-28
-29        <service
-29-->[androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
-30            android:name="androidx.room.MultiInstanceInvalidationService"
-30-->[androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
-31            android:directBootAware="true"
-31-->[androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
-32            android:exported="false" />
-32-->[androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\702a3e4cb9658e71e0ea1ce728d6f177\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
-33
-34        <provider
-34-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
-35            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-35-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
-36            android:authorities="com.sametcetinkaya.countrieskotlin.lifecycle-process"
-36-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
-37            android:exported="false"
-37-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
-38            android:multiprocess="true" />
-38-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3eba3167b08c9f48962a464af569713d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
-39    </application>
-40
-41</manifest>
+20        android:testOnly="true"
+21        android:theme="@style/Theme.CountriesKotlin" >
+21-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:11:9-53
+22        <activity android:name="com.sametcetinkaya.countrieskotlin.view.MainActivity" >
+22-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:12:9-18:20
+22-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:12:19-52
+23            <intent-filter>
+23-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:13:13-17:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:14:17-69
+24-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:14:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:16:17-77
+26-->C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:16:27-74
+27            </intent-filter>
+28        </activity>
+29
+30        <service
+30-->[androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1bc9d71ca20e225056e331286d7659bf\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+31            android:name="androidx.room.MultiInstanceInvalidationService"
+31-->[androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1bc9d71ca20e225056e331286d7659bf\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+32            android:directBootAware="true"
+32-->[androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1bc9d71ca20e225056e331286d7659bf\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+33            android:exported="false" />
+33-->[androidx.room:room-runtime:2.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\1bc9d71ca20e225056e331286d7659bf\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+34
+35        <provider
+35-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\7e4e2d162b6380e156922b7713af06ec\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+36            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+36-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\7e4e2d162b6380e156922b7713af06ec\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+37            android:authorities="com.sametcetinkaya.countrieskotlin.lifecycle-process"
+37-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\7e4e2d162b6380e156922b7713af06ec\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+38            android:exported="false"
+38-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\7e4e2d162b6380e156922b7713af06ec\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+39            android:multiprocess="true" />
+39-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\7e4e2d162b6380e156922b7713af06ec\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+40    </application>
+41
+42</manifest>

@@ -1881,7 +1881,6 @@ id beginning
 id blocking
 id bottom
 id bounce
-id button
 id buttonPanel
 id cache_measures
 id cancel_action
@@ -1913,8 +1912,16 @@ id contiguous
 id coordinator
 id cos
 id counterclockwise
+id countryCapital
+id countryCurrency
+id countryError
 id countryFragment
-id country_navigation
+id countryImage
+id countryLanguage
+id countryList
+id countryLoading
+id countryName
+id countryRegion
 id custom
 id customPanel
 id cut
@@ -1969,7 +1976,7 @@ id fixed
 id flip
 id floating
 id forever
-id fragment
+id fragmentContainerView
 id fragment_container_view_tag
 id ghost_view
 id ghost_view_holder
@@ -1993,6 +2000,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id info
 id invisible
 id inward
@@ -2066,7 +2074,9 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name
 id nav_controller_view_tag
+id nav_graph
 id nav_host_fragment_container
 id navigation_header_container
 id never
@@ -2102,6 +2112,7 @@ id radio
 id ratio
 id rectangles
 id recycler_view
+id region
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2169,6 +2180,7 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
+id swipeRefreshLayout
 id switchWidget
 id tabMode
 id tag_accessibility_actions
@@ -2195,7 +2207,6 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView
 id textWatcher
 id text_input_end_icon
 id text_input_error_icon
@@ -2320,6 +2331,7 @@ layout expand_button
 layout fragment_country
 layout fragment_feed
 layout image_frame
+layout item_country
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2413,7 +2425,7 @@ layout text_view_with_theme_line_height
 layout text_view_without_line_height
 mipmap ic_launcher
 mipmap ic_launcher_round
-navigation country_navigation
+navigation nav_graph
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
 string abc_action_bar_up_description
@@ -2453,6 +2465,7 @@ string chip_text
 string clear_text_end_icon_content_description
 string copy
 string error_icon_content_description
+string error_try_again
 string expand_button_title
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior

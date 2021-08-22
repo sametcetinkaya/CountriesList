@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\samet\\.gradle\\caches\\transforms-2\\files-2.1\\104775be4d73928937f92ac4f1782ba1\\core-1.6.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\samet\\.gradle\\caches\\transforms-2\\files-2.1\\3b817278db31de4a7b44fd8cf9aec882\\core-1.6.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\samet\\.gradle\\caches\\transforms-2\\files-2.1\\9449a30f7f43677ba3cfa888c63f279d\\appcompat-1.3.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\samet\\.gradle\\caches\\transforms-2\\files-2.1\\0bb37f2ca0ee81e070dfd0f89c015764\\appcompat-1.3.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

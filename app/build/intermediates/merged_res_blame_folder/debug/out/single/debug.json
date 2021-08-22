@@ -12,6 +12,10 @@
         "source": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
         "merged": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
@@ -30,6 +34,10 @@
     {
         "merged": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_country.xml.flat",
+        "source": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\src\\main\\res\\layout\\item_country.xml"
     },
     {
         "merged": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
@@ -54,10 +62,6 @@
     {
         "merged": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\build\\intermediates\\res\\merged\\debug\\navigation_country_navigation.xml.flat",
-        "source": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\src\\main\\res\\navigation\\country_navigation.xml"
     },
     {
         "merged": "C:\\Users\\samet\\AndroidStudioProjects\\CountriesKotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",

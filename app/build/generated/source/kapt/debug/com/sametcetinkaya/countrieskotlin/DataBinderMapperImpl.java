@@ -8,6 +8,7 @@ import androidx.databinding.DataBindingComponent;
 import androidx.databinding.ViewDataBinding;
 import com.sametcetinkaya.countrieskotlin.databinding.FragmentCountryBindingImpl;
 import com.sametcetinkaya.countrieskotlin.databinding.FragmentFeedBindingImpl;
+import com.sametcetinkaya.countrieskotlin.databinding.ItemCountryBindingImpl;
 import java.lang.IllegalArgumentException;
 import java.lang.Integer;
 import java.lang.Object;
@@ -23,11 +24,14 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   private static final int LAYOUT_FRAGMENTFEED = 2;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(2);
+  private static final int LAYOUT_ITEMCOUNTRY = 3;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(3);
 
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.sametcetinkaya.countrieskotlin.R.layout.fragment_country, LAYOUT_FRAGMENTCOUNTRY);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.sametcetinkaya.countrieskotlin.R.layout.fragment_feed, LAYOUT_FRAGMENTFEED);
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.sametcetinkaya.countrieskotlin.R.layout.item_country, LAYOUT_ITEMCOUNTRY);
   }
 
   @Override
@@ -50,6 +54,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
             return new FragmentFeedBindingImpl(component, view);
           }
           throw new IllegalArgumentException("The tag for fragment_feed is invalid. Received: " + tag);
+        }
+        case  LAYOUT_ITEMCOUNTRY: {
+          if ("layout/item_country_0".equals(tag)) {
+            return new ItemCountryBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for item_country is invalid. Received: " + tag);
         }
       }
     }
@@ -104,11 +114,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(2);
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(3);
 
     static {
       sKeys.put("layout/fragment_country_0", com.sametcetinkaya.countrieskotlin.R.layout.fragment_country);
       sKeys.put("layout/fragment_feed_0", com.sametcetinkaya.countrieskotlin.R.layout.fragment_feed);
+      sKeys.put("layout/item_country_0", com.sametcetinkaya.countrieskotlin.R.layout.item_country);
     }
   }
 }

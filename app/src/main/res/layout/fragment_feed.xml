@@ -15,7 +15,7 @@
 
 
             <androidx.recyclerview.widget.RecyclerView
-                android:id="@+id/countriesList"
+                android:id="@+id/countryList"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
                 app:layout_constraintBottom_toBottomOf="parent"
@@ -27,7 +27,7 @@
                 android:id="@+id/countryError"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Error! Try Again"
+                android:text="@string/error_try_again"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
