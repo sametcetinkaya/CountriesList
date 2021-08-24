@@ -13,13 +13,7 @@ public class FragmentCountryBindingImpl extends FragmentCountryBinding  {
     private static final android.util.SparseIntArray sViewsWithIds;
     static {
         sIncludes = null;
-        sViewsWithIds = new android.util.SparseIntArray();
-        sViewsWithIds.put(R.id.countryImage, 1);
-        sViewsWithIds.put(R.id.countryName, 2);
-        sViewsWithIds.put(R.id.countryCapital, 3);
-        sViewsWithIds.put(R.id.countryRegion, 4);
-        sViewsWithIds.put(R.id.countryCurrency, 5);
-        sViewsWithIds.put(R.id.countryLanguage, 6);
+        sViewsWithIds = null;
     }
     // views
     @NonNull
@@ -41,6 +35,12 @@ public class FragmentCountryBindingImpl extends FragmentCountryBinding  {
             , (android.widget.TextView) bindings[2]
             , (android.widget.TextView) bindings[4]
             );
+        this.countryCapital.setTag(null);
+        this.countryCurrency.setTag(null);
+        this.countryImage.setTag(null);
+        this.countryLanguage.setTag(null);
+        this.countryName.setTag(null);
+        this.countryRegion.setTag(null);
         this.mboundView0 = (android.widget.RelativeLayout) bindings[0];
         this.mboundView0.setTag(null);
         setRootTag(root);
@@ -51,7 +51,7 @@ public class FragmentCountryBindingImpl extends FragmentCountryBinding  {
     @Override
     public void invalidateAll() {
         synchronized(this) {
-                mDirtyFlags = 0x1L;
+                mDirtyFlags = 0x2L;
         }
         requestRebind();
     }
@@ -69,7 +69,22 @@ public class FragmentCountryBindingImpl extends FragmentCountryBinding  {
     @Override
     public boolean setVariable(int variableId, @Nullable Object variable)  {
         boolean variableSet = true;
+        if (BR.selectedCountry == variableId) {
+            setSelectedCountry((com.sametcetinkaya.countrieskotlin.model.Country) variable);
+        }
+        else {
+            variableSet = false;
+        }
             return variableSet;
+    }
+
+    public void setSelectedCountry(@Nullable com.sametcetinkaya.countrieskotlin.model.Country SelectedCountry) {
+        this.mSelectedCountry = SelectedCountry;
+        synchronized(this) {
+            mDirtyFlags |= 0x1L;
+        }
+        notifyPropertyChanged(BR.selectedCountry);
+        super.requestRebind();
     }
 
     @Override
@@ -86,14 +101,52 @@ public class FragmentCountryBindingImpl extends FragmentCountryBinding  {
             dirtyFlags = mDirtyFlags;
             mDirtyFlags = 0;
         }
+        com.sametcetinkaya.countrieskotlin.model.Country selectedCountry = mSelectedCountry;
+        java.lang.String selectedCountryCountryName = null;
+        java.lang.String selectedCountryImageUrl = null;
+        java.lang.String selectedCountryCountryLanguage = null;
+        java.lang.String selectedCountryCountryCapital = null;
+        java.lang.String selectedCountryCountryCurrency = null;
+        java.lang.String selectedCountryCountryRegion = null;
+
+        if ((dirtyFlags & 0x3L) != 0) {
+
+
+
+                if (selectedCountry != null) {
+                    // read selectedCountry.countryName
+                    selectedCountryCountryName = selectedCountry.getCountryName();
+                    // read selectedCountry.imageUrl
+                    selectedCountryImageUrl = selectedCountry.getImageUrl();
+                    // read selectedCountry.countryLanguage
+                    selectedCountryCountryLanguage = selectedCountry.getCountryLanguage();
+                    // read selectedCountry.countryCapital
+                    selectedCountryCountryCapital = selectedCountry.getCountryCapital();
+                    // read selectedCountry.countryCurrency
+                    selectedCountryCountryCurrency = selectedCountry.getCountryCurrency();
+                    // read selectedCountry.countryRegion
+                    selectedCountryCountryRegion = selectedCountry.getCountryRegion();
+                }
+        }
         // batch finished
+        if ((dirtyFlags & 0x3L) != 0) {
+            // api target 1
+
+            androidx.databinding.adapters.TextViewBindingAdapter.setText(this.countryCapital, selectedCountryCountryCapital);
+            androidx.databinding.adapters.TextViewBindingAdapter.setText(this.countryCurrency, selectedCountryCountryCurrency);
+            com.sametcetinkaya.countrieskotlin.util.UtilKt.downloadImage(this.countryImage, selectedCountryImageUrl);
+            androidx.databinding.adapters.TextViewBindingAdapter.setText(this.countryLanguage, selectedCountryCountryLanguage);
+            androidx.databinding.adapters.TextViewBindingAdapter.setText(this.countryName, selectedCountryCountryName);
+            androidx.databinding.adapters.TextViewBindingAdapter.setText(this.countryRegion, selectedCountryCountryRegion);
+        }
     }
     // Listener Stub Implementations
     // callback impls
     // dirty flag
     private  long mDirtyFlags = 0xffffffffffffffffL;
     /* flag mapping
-        flag 0 (0x1L): null
+        flag 0 (0x1L): selectedCountry
+        flag 1 (0x2L): null
     flag mapping end*/
     //end
 }

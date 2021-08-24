@@ -8,9 +8,11 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.databinding.Bindable;
 import androidx.databinding.DataBindingUtil;
 import androidx.databinding.ViewDataBinding;
 import com.sametcetinkaya.countrieskotlin.R;
+import com.sametcetinkaya.countrieskotlin.model.Country;
 import java.lang.Deprecated;
 import java.lang.Object;
 
@@ -33,6 +35,9 @@ public abstract class FragmentCountryBinding extends ViewDataBinding {
   @NonNull
   public final TextView countryRegion;
 
+  @Bindable
+  protected Country mSelectedCountry;
+
   protected FragmentCountryBinding(Object _bindingComponent, View _root, int _localFieldCount,
       TextView countryCapital, TextView countryCurrency, ImageView countryImage,
       TextView countryLanguage, TextView countryName, TextView countryRegion) {
@@ -43,6 +48,13 @@ public abstract class FragmentCountryBinding extends ViewDataBinding {
     this.countryLanguage = countryLanguage;
     this.countryName = countryName;
     this.countryRegion = countryRegion;
+  }
+
+  public abstract void setSelectedCountry(@Nullable Country selectedCountry);
+
+  @Nullable
+  public Country getSelectedCountry() {
+    return mSelectedCountry;
   }
 
   @NonNull

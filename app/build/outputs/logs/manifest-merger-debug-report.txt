@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [androidx.databinding:databinding-adapters:4.1.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\b6d7f3e0fd099bb59eae4b2987c9d68a\databinding-adapters-4.1.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:4.1.3] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\c0403967a2505b435efe26c4336504e4\databinding-runtime-4.1.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\003320362c7c75bb3025ba55218f4a92\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
@@ -75,25 +75,29 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\2ccf32cfc58e6448a2335317f1080236\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\d5a8628b6cc19b52ecf8352e28a69abd\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\fd85cd5a4e1c68b87c36b24ae60c8d4d\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:3:5-49
 		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:7:5-21:19
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\55bafe38a4c354632d6315fa1b7b459b\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\55bafe38a4c354632d6315fa1b7b459b\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\c864c767a80972d73def50f081c3c3f7\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -115,31 +119,31 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\samet\.gradle
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\samet\.gradle\caches\transforms-2\files-2.1\3b817278db31de4a7b44fd8cf9aec882\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:11:9-53
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:13:9-53
 activity#com.sametcetinkaya.countrieskotlin.view.MainActivity
-ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:12:19-52
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:14:19-52
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml:18:27-74
 uses-sdk
 INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\samet\AndroidStudioProjects\CountriesKotlin\app\src\main\AndroidManifest.xml

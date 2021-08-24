@@ -42,6 +42,16 @@ class FeedFragment : Fragment() {
         countryList.adapter = countryAdapter
 
         observeLiveData()
+
+        swipeRefreshLayout.setOnRefreshListener {
+            swipeRefreshLayout.isRefreshing = false
+            countryLoading.visibility = View.VISIBLE
+            countryList.visibility = View.GONE
+            countryError.visibility = View.GONE
+            viewModel.refreshFromAPI()
+
+
+        }
         /*
         button.setOnClickListener {
             val action = FeedFragmentDirections.actionFeedFragmentToCountryFragment()

@@ -4,6 +4,7 @@ androidx/databinding/DataBinderMapperImpl.java
  androidx.databinding.DataBinderMapperImpl
 com/sametcetinkaya/countrieskotlin/databinding/ItemCountryBindingImpl.java
  com.sametcetinkaya.countrieskotlin.databinding.ItemCountryBindingImpl
+ com.sametcetinkaya.countrieskotlin.databinding.ItemCountryBindingImpl$OnClickListenerImpl
 androidx/databinding/library/baseAdapters/BR.java
  androidx.databinding.library.baseAdapters.BR
 com/sametcetinkaya/countrieskotlin/databinding/FragmentCountryBindingImpl.java
@@ -14,12 +15,23 @@ com/sametcetinkaya/countrieskotlin/DataBinderMapperImpl.java
  com.sametcetinkaya.countrieskotlin.DataBinderMapperImpl
  com.sametcetinkaya.countrieskotlin.DataBinderMapperImpl$InnerBrLookup
  com.sametcetinkaya.countrieskotlin.DataBinderMapperImpl$InnerLayoutIdLookup
+com/sametcetinkaya/countrieskotlin/service/CountryDAO_Impl.java
+ com.sametcetinkaya.countrieskotlin.service.CountryDAO_Impl
+ com.sametcetinkaya.countrieskotlin.service.CountryDAO_Impl$1
+ com.sametcetinkaya.countrieskotlin.service.CountryDAO_Impl$2
+ com.sametcetinkaya.countrieskotlin.service.CountryDAO_Impl$3
+ com.sametcetinkaya.countrieskotlin.service.CountryDAO_Impl$4
+ com.sametcetinkaya.countrieskotlin.service.CountryDAO_Impl$5
+ com.sametcetinkaya.countrieskotlin.service.CountryDAO_Impl$6
 com/sametcetinkaya/countrieskotlin/databinding/FragmentFeedBinding.java
  com.sametcetinkaya.countrieskotlin.databinding.FragmentFeedBinding
 com/sametcetinkaya/countrieskotlin/BR.java
  com.sametcetinkaya.countrieskotlin.BR
 com/sametcetinkaya/countrieskotlin/DataBindingTriggerClass.java
  com.sametcetinkaya.countrieskotlin.DataBindingTriggerClass
+com/sametcetinkaya/countrieskotlin/service/CountryDatabase_Impl.java
+ com.sametcetinkaya.countrieskotlin.service.CountryDatabase_Impl
+ com.sametcetinkaya.countrieskotlin.service.CountryDatabase_Impl$1
 com/sametcetinkaya/countrieskotlin/BuildConfig.java
  com.sametcetinkaya.countrieskotlin.BuildConfig
 androidx/databinding/DataBindingComponent.java
